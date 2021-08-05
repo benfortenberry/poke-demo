@@ -1,0 +1,8 @@
+// main.scss is imported in nuxt.config.js and applies all styles
+// in this file globally
+
+@import 'custom-buefy.scss';
+
+.gray-background{
+    background-color:#E0E0E0
+}
